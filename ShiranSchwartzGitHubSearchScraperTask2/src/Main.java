@@ -15,7 +15,7 @@ public class Main {
 	
 	public static void main(String[] args) {
 		if(args.length==0) {
-			System.out.println("Use: ShiranSchwartzImpervaTask2.jar <JsonFileName>");
+			System.out.println("Use: ShiranSchwartzGitHubSearchScraperTask2.jar <JsonFileName>");
 			return;
 		}
 		String nameFileContainjsons = args[0];
